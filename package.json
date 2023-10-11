@@ -1,6 +1,6 @@
 {
-  "name": "raw-socket",
-  "version": "1.7.0",
+  "name": "@luminati-io/raw-socket",
+  "version": "1.7.0-lum.1",
   "description": "Raw sockets for Node.js.",
   "main": "index.js",
   "directories": {
